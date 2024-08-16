@@ -3,6 +3,7 @@ Bio
 👋 Hi, I'm Divyansh Sharma, a 3rd-year Computer Science student with a passion for coding and building innovative projects. I primarily work with Java and Python and enjoy exploring various technologies to bring my ideas to life.
 
 🔧 Projects I'm Working On:
+
 𝐉𝐚𝐫𝐯𝐢𝐬 (𝐕𝐨𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭): A Siri-like assistant for Microsoft, built using Python.
 
 𝐌𝐨𝐧𝐨𝐩𝐨𝐥𝐲 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲: A Discord bot for managing Monopoly games, developed using Python.
