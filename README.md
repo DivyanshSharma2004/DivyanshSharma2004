@@ -6,8 +6,6 @@ Bio
 
 𝐉𝐚𝐫𝐯𝐢𝐬 (𝐕𝐨𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭): A Siri-like assistant for Microsoft, built using Python.
 
-𝐌𝐨𝐧𝐨𝐩𝐨𝐥𝐲 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲: A Discord bot for managing Monopoly games, developed using Python.
-
 𝐑𝐞𝐜𝐢𝐩𝐞 𝐀𝐩𝐩 & 𝐒𝐡𝐨𝐩𝐩𝐢𝐧𝐠 𝐋𝐢𝐬𝐭 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫: An Android app built with Java, api utilisation and Android SDK.
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐞𝐫: A web application using Java and Spring Boot with MongoDb for data storage and HTML, CSS, JavaScript for the front end.
@@ -15,7 +13,7 @@ Bio
 𝐘𝐨𝐮𝐭𝐮𝐛𝐞𝐓𝐨𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: a Java application that makes use of api calls to download youtube videos and post them on instagram accounts automatically. 
 
 🚀 What I'm Learning:
-Enhancing my skills in Spring Boot and Android development.
+Enhancing my skills in Spring Boot and web development.
 Exploring front-end frameworks like React and Vue.js.
 Feel free to explore my repositories and connect with me on GitHub!
 
