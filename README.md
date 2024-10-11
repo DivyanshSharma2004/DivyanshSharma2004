@@ -10,7 +10,6 @@ Bio
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐞𝐫: A web application using Java and Spring Boot with MongoDb for data storage and HTML, CSS, JavaScript for the front end.
 
-𝐘𝐨𝐮𝐭𝐮𝐛𝐞𝐓𝐨𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: a Java application that makes use of api calls to download youtube videos and post them on instagram accounts automatically. 
 
 🚀 What I'm Learning:
 Enhancing my skills in Spring Boot and web development.
