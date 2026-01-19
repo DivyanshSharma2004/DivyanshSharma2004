@@ -1,4 +1,4 @@
-Bio 👋 Hi, I'm Divyansh Sharma, a 3rd-year Computer Science student with a passion for coding and building innovative projects. I primarily work with Java and Python and enjoy exploring various technologies to bring my ideas to life.
+Bio 👋 Hi, I'm Divyansh Sharma, a 4th-year Computer Science student with a passion for coding and building innovative projects. I primarily work with Java and Python and enjoy exploring various technologies to bring my ideas to life.
 
 🔧 Projects I'm Working On:
 
